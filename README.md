@@ -1,0 +1,1 @@
+This project builds a Decision Tree Classifier to predict penguin species using the Palmer Penguins dataset. It includes data cleaning, visualization, model training, evaluation, and visualization of the decision tree and confusion matrix using Python and scikit-learn.
